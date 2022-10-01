@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Structure & Algorithim
 - 💞️ I’m always looking to collaborate 
 - 📫 You can reach me at @Kartikay https://www.linkedin.com/in/kartikaypatni
--
 
 <!---
 KArtik-35/KArtik-35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
