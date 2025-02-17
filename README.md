@@ -18,9 +18,9 @@
 - **Tools & Platforms:** Git, Linux (Ubuntu 24.04), Jupyter Notebooks  
 
 ## 📌 Current Projects  
-🔹 **🚆 AI-Powered Rail Accident Prevention** – Using PySpark for real-time train tracking and obstacle detection.  
-🔹 **📊 Beverage Market Analysis** – Predictive modeling and ML for consumer trends in Google Colab.  
-🔹 **♟️ Chess Tournament Organizer** – Automated event management and analytics dashboard.  
+🔹 **📊 Beverage Market Analysis** – Using predictive modeling and ML for consumer trends and demand forecasting. 
+🔹 **📡 Real-time Data Analytics Dashboard** – Building a scalable dashboard for tracking, visualizing, and analyzing data streams.  
+🔹 **📱 Smart Android App Development** – Creating intelligent mobile applications with AI/ML-powered features.  
 
 <!--## 📈 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?KArtik-34&theme=react)  
