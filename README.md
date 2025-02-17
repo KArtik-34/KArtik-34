@@ -1,4 +1,4 @@
-# 🚀 onichaan | Data Science | Machine Learning | AI | Android Development
+# 🚀  Data Science | Machine Learning | AI | Android Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikaypatni/)
 <!---[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff5f40.svg?&style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)--->
